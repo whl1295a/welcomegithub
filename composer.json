@@ -1,0 +1,14 @@
+{
+    "name": "whl1295a/welcomegithub",
+    "description": "welcome,github,composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "whl1295a",
+            "email": "909451982@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
